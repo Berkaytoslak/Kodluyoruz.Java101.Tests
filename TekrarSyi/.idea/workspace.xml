@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6f2c97a-a8b8-4007-af3e-d08d993c4b17" name="Default Changelist" comment="" />
+    <list default="true" id="36d3a5aa-5bd5-4121-83cd-eb74a438e10d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1uXiL5xsxfx6KEd2jj2mkmy3uYS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1uXknOjGNop4iqvSinXtiFPrPrE" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -74,7 +70,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Harf" />
+      <module name="TekrarSyi" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -88,14 +84,13 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6f2c97a-a8b8-4007-af3e-d08d993c4b17" name="Default Changelist" comment="" />
-      <created>1624818277772</created>
+      <changelist id="36d3a5aa-5bd5-4121-83cd-eb74a438e10d" name="Default Changelist" comment="" />
+      <created>1624819490693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624818277772</updated>
+      <updated>1624819490693</updated>
     </task>
     <servers />
   </component>
