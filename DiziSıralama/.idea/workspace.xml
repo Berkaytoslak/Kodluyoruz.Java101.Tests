@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4edadaf-9cea-418e-8741-c7472a9386ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/Deneme.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/src/PartTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Deneme/src/SalaryBasedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiziSıralama.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DiziSıralama/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TekrarSyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TekrarSyi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
